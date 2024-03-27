@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteName">
+	<test name="My Name">
+		<classes>
+			<class name="com.TestNGDemos.D05Amazon">
+			</class>
+		</classes>
+		<groups>
+			<run>
+				<include name="Gadgets">
+				</include>
+			</run>
+		</groups>
+	</test>
+</suite>
